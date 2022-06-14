@@ -1,0 +1,19 @@
+.carousel-item {
+	height: 600px;
+}
+
+.carousel-item img {
+	height: 600px;
+}
+
+.row {
+	margin-left: 80px;
+}
+
+body {
+	background-color: #16191b;
+}
+
+.white {
+	color: #f8f8f8;
+}
